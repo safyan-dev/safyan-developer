@@ -2,7 +2,7 @@
 I am Full Stack Web Developer 
 
 
-<!--
+
 **safyan-developer/safyan-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: safyanyaqoo07@gmail.com && 
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love plyaing football
--->
