@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Full Stack Web Development
 - 📫 How to reach me: safyanyaqoo07@gmail.com && 
 - 😄 Pronouns: He
-- ⚡ Fun fact: Love plyaing football
+- ⚡ Fun fact: Love plyaing ⚽
