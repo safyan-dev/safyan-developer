@@ -1,4 +1,4 @@
-### Hi there i'm Safyan 👋
+### Hi there, i'm Safyan 👋
 
 <!--
 **safyan-developer/safyan-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
