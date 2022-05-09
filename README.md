@@ -1,5 +1,5 @@
 ### Hi there, i'm Safyan 👋
-I am Full Stack Web Developer 
+I am Full Stack .NET Web Developer 
 
 - 🔭 I’m currently working on .NET Core + Angular
 - 🌱 I’m currently learning front-end techanologies
