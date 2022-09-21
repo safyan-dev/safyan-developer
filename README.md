@@ -1,7 +1,7 @@
 ### Hi there, i'm Safyan 👋 
 
 - 🔭 I’m currently working on .NET Core + Angular
-- 🌱 I’m currently learning front-end techanologies
+- 🌱 I’m currently learning software architectures
 - 👯 I’m looking to collaborate on Full Stack Web Development
 - 🤔 I’m looking for help with Fronend & API's
 - 💬 Ask me about Full Stack Web Development
