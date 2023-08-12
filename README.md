@@ -1,13 +1,13 @@
-### Hi there, i'm Safyan 👋 
+### Hi there, I'm Safyan 👋 
 
 - 🔭 I’m currently working on .NET Core + Angular
 - 🌱 I’m currently learning software architectures
 - 👯 I’m looking to collaborate on Full Stack Web Development
-- 🤔 I’m looking for help with Fronend & API's
+- 🤔 I’m looking for help with Frontend & APIs
 - 💬 Ask me about Full Stack Web Development
 - 📫 How to reach me: safyanyaqoo07@gmail.com && 
 - 😄 Pronouns: He
-- ⚡ Fun fact: Love to plyaing ⚽
+- ⚡ Fun fact: Love to playing ⚽
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safyan-developer" alt="safyan-developer" /></a> </p>
 
