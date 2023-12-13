@@ -1,23 +1,11 @@
-### Hi there, I'm Safyan 👋 
+### Hey 👋, I'm Safyan Yaqoob
 
 - 🔭 I’m currently working on .NET Core + Angular
 - 🌱 I’m currently learning software architectures
-- 👯 I’m looking to collaborate on Full Stack Web Development
-- 🤔 I’m looking for help with Frontend & APIs
-- 💬 Ask me about Full Stack Web Development
-- 📫 How to reach me: safyanyaqoo07@gmail.com && 
-- 😄 Pronouns: He
-- ⚡ Fun fact: Love to playing ⚽
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safyan-developer" alt="safyan-developer" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safyan-developer&label=Profile%20views&color=0e75b6&style=flat" alt="Safyan" /> </p>
-
+- 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sufyanyaqub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mnmehsan" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/safyan-yaqoob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/safyan-yaqoob/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9705947/safyan-yaqoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9705947/safyan-yaqoob" height="30" width="40" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safyan-developer&show_icons=true&locale=en" alt="safyan-developer" /></p>
 
