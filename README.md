@@ -56,5 +56,5 @@ I am passionate about continuous learning, knowledge sharing, and facing complex
 
 <h2 align="center">🚀 Activities</h2>
 <p align="center">
-  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=safyan-dev" /></a>
+  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=safyan-yaqoob" /></a>
 </p>
