@@ -16,6 +16,10 @@ I am passionate about continuous learning, knowledge sharing, and facing complex
             height="54" alt="dotnet" style="vertical-align:top; margin:4px;">
     </a>
     <a href="">
+        <img src="https://www.cdnlogo.com/logos/m/21/microsoft-sql-server.svg"
+            width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
             width="54" height="54" alt="postgres" style="vertical-align:top; margin:4px">
     </a>
