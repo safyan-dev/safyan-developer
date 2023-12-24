@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Safyan Yaqoob 👋</h1>
 
-I'm a software engineer with 4+ years of expertise in full-stack development, skilled in comprehensive requirement analysis, and adept at implementing object-oriented designs, I am dedicated to delivering innovative results. I bring extensive experience in designing and implementing responsive, scalable, and maintainable systems using C#, .NET, Angular, and Javascript. My interests extend to microservices, system design, software architecture, domain-driven design (DDD), event sourcing, CQRS, and DevOps.
+I'm a software engineer with extensive years of expertise in full-stack development, skilled in comprehensive requirement analysis, and adept at implementing object-oriented designs, I am dedicated to delivering innovative results. I bring extensive experience in designing and implementing responsive, scalable, and maintainable systems using C#, .NET, Angular, and Javascript. My interests extend to microservices, system design, software architecture, domain-driven design (DDD), event sourcing, CQRS, and DevOps.
 
 I am passionate about continuous learning, knowledge sharing, and facing complex challenges. I firmly believe in the effectiveness of teamwork in achieving growth.
 
